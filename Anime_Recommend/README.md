@@ -7,7 +7,7 @@ genre - comma separated list of genres for this anime.\
 type - movie, TV, OVA, etc.\
 episodes - how many episodes in this show. (1 if movie).\
 rating - average rating out of 10 for this anime.\
-members - number of community members that are in this anime's "group".\
+members - number of community members that are in this anime's "group".
 
 Rating\
 user_id - non identifiable randomly generated user id.\
