@@ -2,6 +2,7 @@
 
 ### Regression
 - [การกำหนดราคารถยนต์](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Car_Price.ipynb)
+- [คาดการณ์การจ่ายเงินประกันสุขภาพรายบุคคล](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Insurance_Charges.ipynb)
 
 ### Classification
 - [คาดการณ์การวินิจฉัยผู้ป่วยโรคเบาหวาน](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Pima.ipynb)
