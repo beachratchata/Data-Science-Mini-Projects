@@ -6,6 +6,7 @@
 
 ### Classification
 - [คาดการณ์การวินิจฉัยผู้ป่วยโรคเบาหวาน](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Pima.ipynb)
+- [การทำนายโรคหลอดเลือดสมอง](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/stroke.ipynb)
 
 ### Clustering
 - [การแบ่งกลุ่มลูกค้าห้างสรรพสินค้า](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Customer_Segmentation.ipynb)
