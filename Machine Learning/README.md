@@ -10,6 +10,7 @@
 
 ### Clustering
 - [การแบ่งกลุ่มลูกค้าห้างสรรพสินค้า](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Customer_Segmentation.ipynb)
+- [การจัดกลุ่ม Pokemon](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/pokemon-clustering.ipynb)
 
 ### Recommendation Systems
 - [ระบบแนะนำหนัง(ตามเนื้อเรื่อง)](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/Movie_Recommend.ipynb)
