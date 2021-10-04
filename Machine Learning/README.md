@@ -18,4 +18,5 @@
 
 ### Natural Language Processing
 - [แยกข้อความที่เป็นสแปม](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/SMS_spam.ipynb)
+- [แยกข่าวปลอมและข่าวจริง](https://github.com/beachratchata/Mini_Projects/blob/main/Machine%20Learning/fake-news.ipynb)
 
